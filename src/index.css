@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Space+Grotesk:wght@700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans TC", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", "Noto Sans TC", sans-serif;
+}
+
+body {
+  background-color: #FFF8F0;
+  color: #0f172a; /* slate-900 */
+  overflow-x: hidden;
+}

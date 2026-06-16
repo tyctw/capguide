@@ -1,0 +1,8 @@
+{
+  "name": "會考志願選填全攻略",
+  "description": "專為國中會考生打造的志願選填視覺化指南，幫助學生掌握落點分析與填表策略。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
